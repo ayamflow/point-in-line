@@ -1,0 +1,28 @@
+{
+  "name": "point-in-line",
+  "version": "1.0.0",
+  "description": "Returns a point at length `t` on a given line (two points).",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayamflow/point-in-line"
+  },
+  "keywords": [
+    "point",
+    "line",
+    "length"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/point-in-line/issues"
+  },
+  "homepage": "https://github.com/ayamflow/point-in-line",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^3.5.0"
+  }
+}
